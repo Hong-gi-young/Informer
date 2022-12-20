@@ -10,7 +10,7 @@
 *회귀/ 범주
 각 reg_exp_main.py, cls_exp_main.py 파일 실행 
 
-#result
+# result
 회귀	cg_curtain
 MSE	0.041
 MAE	0.057
@@ -18,4 +18,3 @@ MAE	0.057
 Acc	0.921
 F1	0.928
 Recall	0.917
-![image](https://user-images.githubusercontent.com/69567516/208602183-cf2ccf20-011d-4c5c-bafb-675df48ceb96.png)
