@@ -7,8 +7,9 @@
 예측기간은 1일로 설정하여 진행했습니다.
 
 # Usage
-*회귀/ 범주
 각 reg_exp_main.py, cls_exp_main.py 파일 실행 
 
 # result
+- seq_len 48일 경우 각 회귀와 범주형에 대한 Valid 성능 평가 결과는 아래와 같습니다.
 ![image](https://user-images.githubusercontent.com/69567516/208602593-956a84b4-f1d3-422c-aeae-8c96f0555219.png)
+
