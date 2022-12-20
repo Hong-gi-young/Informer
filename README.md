@@ -11,10 +11,4 @@
 각 reg_exp_main.py, cls_exp_main.py 파일 실행 
 
 # result
-회귀	cg_curtain
-MSE	0.041
-MAE	0.057
-분류	flow_fan
-Acc	0.921
-F1	0.928
-Recall	0.917
+![image](https://user-images.githubusercontent.com/69567516/208602593-956a84b4-f1d3-422c-aeae-8c96f0555219.png)
