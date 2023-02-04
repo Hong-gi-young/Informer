@@ -1,5 +1,5 @@
 # Informer
- Informer 모델은 AAAI 학회에서 Outstanding paper award를 수상한 논문으로써  Transformer를 기반으로 long sequence의 시계열 예측을 수행하는 모델을 제안했습니다.
+ #### Informer 모델은 AAAI 학회에서 Outstanding paper award를 수상한 논문으로써  Transformer를 기반으로 long sequence의 시계열 예측을 수행하는 모델을 제안했습니다.
 
 # explain
 본 프로젝트에서는 회귀/범주형으로 각기 수행했으며 기존 소스코드의 구조 및 코드를 변경하여 수행했습니다.
